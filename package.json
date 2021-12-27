@@ -1,0 +1,26 @@
+{
+  "name": "lovelace-bottom-navbar",
+  "version": "0.0.1",
+  "description": "Simply moves Lovelace navbar to the bottom of the screen",
+  "main": "lovelace-bottom-navbar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jipema/lovelace-bottom-navbar.git"
+  },
+  "keywords": [
+    "lovelace",
+    "homeassistant",
+    "navbar",
+    "menu",
+    "navigation"
+  ],
+  "author": "Jipema",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jipema/lovelace-bottom-navbar/issues"
+  },
+  "homepage": "https://github.com/jipema/lovelace-bottom-navbar#readme"
+}
